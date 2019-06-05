@@ -175,3 +175,7 @@ article span {
 article span:not(:last-child) {
   margin-bottom: 5px;
 }
+
+article .content p:not(:first-child) {
+  margin-top: 5px;
+}
