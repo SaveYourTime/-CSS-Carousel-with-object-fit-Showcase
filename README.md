@@ -1,4 +1,4 @@
-# Carousel-with-object-fit-Showcase
+# carousel-with-object-fit-showcase
 
 ![Imgur](https://i.imgur.com/zjtEGuw.png)
 
