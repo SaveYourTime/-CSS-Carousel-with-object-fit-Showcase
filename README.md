@@ -4,7 +4,7 @@
 
 ## Demo
 
-Here is a working live demo : https://saveyourtime.github.io/Carousel-with-object-fit-Showcase/
+Here is a working live demo : https://saveyourtime.github.io/carousel-with-object-fit-showcase/
 
 ## Technologies
 
