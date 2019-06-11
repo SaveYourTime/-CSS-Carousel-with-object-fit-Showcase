@@ -1,7 +1,7 @@
 # carousel-with-object-fit-showcase
 
 ![Imgur](https://i.imgur.com/IfUnn70.gif)
-![Imgur](https://i.imgur.com/KlWnQIs.png)
+![Imgur](https://i.imgur.com/KlWnQIs.jpg)
 
 ## Demo
 
